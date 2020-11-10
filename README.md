@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![dailyco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dailyco&show_icons=true)
+![dailyco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dailyco&count_private=true&theme=radical)
 
 <!--
 **dailyco/dailyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
