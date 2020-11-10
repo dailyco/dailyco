@@ -1,4 +1,4 @@
-### Hi there 👋
+### 차근차근 성장하고있는 dailyco ✌👩🏻‍💻
 
 ![dailyco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dailyco&count_private=true&theme=radical)
 
