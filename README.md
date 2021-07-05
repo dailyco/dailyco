@@ -34,7 +34,6 @@
       </td>
     <td align="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailyco&hide=jupyter%20notebook&layout=compact&hide_border=true" alt="dailyco_lang_status" align="left" style="width: 100%" />
-      ![dailyco's GitHub Stats]()
     </td>
   </tr>
 </table>
