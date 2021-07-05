@@ -1,5 +1,6 @@
 ### 차근차근 성장하고있는 아기 개발자 dailyco 👩🏻‍💻
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdailyco&count_bg=%23A127C2&title_bg=%23474747&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
 ![dailyco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dailyco&count_private=true&theme=radical)
 
 <!--
