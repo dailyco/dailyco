@@ -35,7 +35,7 @@
   ### 🔫  MAFIA 31 : 웹 마피아 게임 마피아31  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](http://mafia31.kro.kr)
 
   > 설치 없이 간편하게 즐길 수 있는 웹 마피아 게임
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=web31-MAFIA31&cache_seconds=86400&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dailyco&repo=MAFIA31&cache_seconds=86400&theme=gruvbox">
   
   - 개발 기간 : 2021.10.25 ~ 2020.12.03
   - 사용 언어 및 기술 : React, Node.js, Typescript, Express, Socket.io, MongoDB, NGINX, PM2
