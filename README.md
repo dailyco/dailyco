@@ -57,11 +57,11 @@
 ![HTML5][HTML5] ![css][css] ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Sass][Sass]
 
 ### Backend
-![Node.js][Node.js] ![Express][Express] ![MySQL][MySQL] ![MongoDB][MongoDB] ![NGINX][NGINX]
+![Node.js][Node.js] ![Express][Express] ![MySQL][MySQL] ![Sequelize][Sequelize] ![MongoDB][MongoDB] ![NGINX][NGINX]
 
 ### Collaboration
 ![Git][Git] ![GitHub][GitHub] ![GitHub Actions][GitHub Actions]  
-![Visual Studio Code][Visual Studio Code] ![Notion][Notion] ![Slack][Slack]
+![Visual Studio Code][Visual Studio Code] ![Notion][Notion] ![Slack][Slack] ![Trello][Trello]
 
 ### Design
 ![Figma][Figma]
@@ -91,6 +91,7 @@
 [Node.js]: https://img.shields.io/badge/Node.js-009432?style=for-the-badge&logo=Node.js&logoColor=white
 [Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white
 [MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white
+[Sequelize]: https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white
 [NGINX]: https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white
 
@@ -101,3 +102,4 @@
 [Figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white
 [Notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white
 [Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white
+[Trello]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white
