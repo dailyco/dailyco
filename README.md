@@ -2,7 +2,8 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdailyco&count_bg=%23A127C2&title_bg=%23474747&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false" align="right" />
 </div>
 
-## 👩🏻‍💻 Dailyco | 문제해결을 즐기는 개발자
+# 👩🏻‍💻 Dailyco | 문제해결을 즐기는 개발자
+
 **안녕하세요, 문제해결을 즐기는 개발자 김유진 입니다.**
 
 <details >
@@ -51,23 +52,23 @@
 </details>
 <br/>
 
-### 🛠 Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-686de0?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black"/>
-  
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-009432?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
- 
-</div>
+## 🛠 Skills
+### Frontend
+![HTML5][HTML5] ![css][css] ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Sass][Sass]
+
+### Backend
+![Node.js][Node.js] ![Express][Express] ![MySQL][MySQL] ![MongoDB][MongoDB] ![NGINX][NGINX]
+
+### Collaboration
+![Git][Git] ![GitHub][GitHub] ![GitHub Actions][GitHub Actions]  
+![Visual Studio Code][Visual Studio Code] ![Notion][Notion] ![Slack][Slack]
+
+### Design
+![Figma][Figma]
 
 <br/>
 
-### 📚 Github Stats
+## 📚 Github Stats
 <table>
   <tr>
     <td align="top" width="50%">
@@ -75,3 +76,28 @@
       </td>
   </tr>
 </table>
+<br/>
+
+## 📞 Contact
+<a href="https://dailyco.tech/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href="mailto:dailyco03@gmail.com"><img src="https://img.shields.io/badge/dailyco03@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
+
+[HTML5]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
+[css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
+[JavaScript]: https://img.shields.io/badge/JavaScript-f9ca24?style=for-the-badge&logo=javascript&logoColor=white
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[React]: https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black
+[Sass]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+
+[Node.js]: https://img.shields.io/badge/Node.js-009432?style=for-the-badge&logo=Node.js&logoColor=white
+[Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white
+[MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white
+[NGINX]: https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white
+
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white
+[GitHub]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[GitHub Actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white
+[Visual Studio Code]: https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white
+[Figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white
+[Notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white
+[Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white
