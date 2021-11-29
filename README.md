@@ -2,7 +2,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdailyco&count_bg=%23A127C2&title_bg=%23474747&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false" align="right" />
 </div>
 
-# 👩🏻‍💻 Dailyco | 문제해결을 즐기는 개발자
+## 👩🏻‍💻 Dailyco | 문제해결을 즐기는 개발자
 
 **안녕하세요, 문제해결을 즐기는 개발자 김유진 입니다.**
 
